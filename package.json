@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "enigma.js": "^2.9.0",
+    "ws": "^8.8.1"
+  }
+}
